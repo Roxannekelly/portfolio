@@ -435,6 +435,10 @@ position: sticky;
 top:0;    
 }
 
+.About{
+  margin: 0;
+}
+
 
 .clone-btn:hover{
 transition: all .5s ease-in;
@@ -445,14 +449,14 @@ background-color: rgba(0, 0, 0, 0);
 }
 
 .form-bg{
-margin-left: 2em;
-padding: 2em;
+margin: 0;
+padding: 1em;
 }
-
 
 .contact-info{
 margin-left: 2em;
 }
+
 .contact-info {
 display: flex;
 flex-direction: column; 
