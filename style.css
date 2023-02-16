@@ -274,6 +274,7 @@ text-align: left;
 form{
 box-sizing: border-box;
 margin-left: 0;
+padding: 20px;    
 }
 
 .form-bg{
